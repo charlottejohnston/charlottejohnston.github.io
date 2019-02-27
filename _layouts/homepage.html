@@ -1,0 +1,20 @@
+<center>
+   <font face="Copperplate" color="black">
+   <font size="50"><strong>{{ page.title }}</font></strong>
+   </font>
+   <style>
+      .content {
+      max-width: 3000px;
+      }
+   </style>
+   <nav>
+      <a href="/" {% if page.url == "/" %}style="color: red;"{% endif %}> Home</a>
+      <br>
+      <a href="/about/" {% if page.url == "/about.html" %}style="color: red;"{% endif %}> About</a>
+   </nav>
+   <hr>
+   <body style="background-color:F8C6F8;">
+      <div class="content">
+         {{ content }}
+      </div>
+</center>

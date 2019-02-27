@@ -1,0 +1,18 @@
+<h1 style="font-family:Copperplate;">{{ page.title }}</h1>
+<style>
+   .content {
+   max-width: 500px;
+   margin: 20px;
+   }
+</style>
+<nav>
+   <a href="/" {% if page.url == "/" %}style="color: red;"{% endif %}> Home</a>
+   <br>
+   <a href="/about/" {% if page.url == "/about.html" %}style="color: red;"{% endif %}> About</a>
+</nav>
+<hr>
+<body style="background-color:F9D7F9;">
+   <div class="content">
+      {{ content }}
+   </div>
+   <button type="button" onclick="alert('You are officially a real fan!!')">Click Here to Join Sally's Fan Club</button>

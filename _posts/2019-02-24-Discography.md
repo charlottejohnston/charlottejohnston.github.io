@@ -43,9 +43,8 @@ Just not Best Actress....
 
 It's ok, we're not salty. 
 
+![mad](/assets/mad.gif)
+
 No matter what, we salute you Sally!
 
 ![salute](/assets/salute.gif)
-
-<!-- <button type="button" onclick="alert('You are officially a real fan!!')">Click Here to Join Sally's Fan Club</button> -->
-

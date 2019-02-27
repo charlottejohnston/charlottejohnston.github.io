@@ -17,7 +17,7 @@ title: SALLY
 email: sally@rezgavron.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sally New Hampshire is an American singer/songwriter and the identical twin of Ally Maine
-baseurl: "/charlottejohnston.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: charlandler
 github_username:  charlottejohnston

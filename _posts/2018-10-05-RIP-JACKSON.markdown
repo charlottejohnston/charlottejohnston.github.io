@@ -3,6 +3,7 @@ layout: sad-post
 title:  "RIP Jackson"
 date:   2018-10-05 20:24:06 -0500
 categories: jekyll update
+permalink: /RIP/
 ---
 
 <font size="20">IN LOVING MEMORY OF JACKSON MAINE</font>

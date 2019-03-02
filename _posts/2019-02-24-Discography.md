@@ -3,6 +3,7 @@ layout: page
 title:  "Discography"
 date:   2018-05-06 20:24:06 -0500
 categories: jekyll update
+permalink: /MUSIC/
 ---
 
 On October 5, 2018 Sally appeared on an episode of SNL hosted by Hilaria Baldwin. What an honor!

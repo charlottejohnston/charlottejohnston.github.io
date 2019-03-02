@@ -13,15 +13,15 @@ title:  "SALLY"
             Who is Sally New Hampshire?
  </a>
 
-<a class="post-link" href="/jekyll/update/2019/02/23/AnotherLook.html">
+<a class="post-link" href="/LOOK/">
     Want to Get Another Look at Her?
 </a>
 
-<a class="post-link" href="/jekyll/update/2018/05/06/Discography.html">
+<a class="post-link" href="/MUSIC/">
     Discography
  </a>
 
-<a class="post-link" href="/jekyll/update/2018/10/05/RIP-JACKSON.html">
+<a class="post-link" href="/RIP/">
     RIP Jackson
 </a>
 
@@ -32,6 +32,3 @@ New Link <a href="https://charlottejohnston.github.io/SALLYNH/">SALLY NH</a>
 
 </p>
 
-
-
-<!-- <button type="button" onclick="alert('You are officially a real fan!!')">Click Here to Join Sally's Fan Club</button> -->

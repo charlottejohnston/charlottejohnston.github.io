@@ -12,7 +12,7 @@ For the “sad” layout, I made a color that looked like “millennial blue” 
 
 Challenge
 
-This assignment was very challenging for me because I was not comfortable setting up with Terminal, and I had no prior experience with Jekyll, Ruby, Github Pages, HTML or any website design. I did a lot of Jekyll-specific research through the Jekyll website and a few other sources to understand how to use it. From there I did HTML research to figure out how to format the text and pages. I am feel  more comfortable with website design and HTML. Now that I know how to make and host a site with Jekyll, I will be able to repeat this process in the future. In future I would want to make the layouts more complex. 
+This assignment was very challenging for me because I was not comfortable setting up with Terminal, and I had no prior experience with Jekyll, Ruby, Github Pages, HTML or any website design. I did a lot of Jekyll-specific research through the Jekyll website and a few other sources to understand how to use it. From there I did HTML research to figure out how to format the text and pages. I now feel more comfortable with website design and HTML. It took me a very long time to figure out how to make the site locally, and then I had a lot of errors with linking once I pushed to Github. Now that I know how to make and host a site with Jekyll, I will be able to repeat this process for future sites. In future I would want to make the layouts more complex. 
 
 Bugs
 

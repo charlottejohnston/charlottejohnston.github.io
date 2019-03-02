@@ -1,23 +1,27 @@
 # charlottejohnston.github.io
-Blog
 Usage
+
 View the site at https://charlottejohnston.github.io or locally through your local host page. 
 
 Design Decisions
-I think Sally’s target demographic would likely be millennial listeners, so I made a color that looks similar to “millennial pink” to use as the background. I also included a lot of gifs and links to music because I think Sally’s viewers would typically enjoy sites like Tumblr that use a lot of moving images.  
-For the “sad” layout, I made a color that looked like “millennial blue” for the background. I also centered all the images so your eye is drawn directly down and you view the title and images in the given order. I thought that using this layout on the Jackson page looked most similar to a memorial program. The images are sad and one is black and white to fit this theme. I played with font, color and boldness to give the user a different feeling on each page, while generally using similar layouts so the site feels cohesive.  
+
+I think Sally’s target demographic would likely be millennial listeners, so I made a color that looks similar to “millennial pink” to use as the background. I also included a lot of gifs and links to music because I think Sally’s viewers would typically enjoy sites like Tumblr that use a lot of moving images.  I edited some famous pictures of Ally Maine and Lady Gaga that fans would recognize and find humorous. 
+
+
+For the “sad” layout, I made a color that looked like “millennial blue” for the background. I also centered all the images so your eye is drawn directly down and you view the title and images in the given order. I thought that using this layout on the Jackson page would look most similar to a memorial program. The images are sad and one is black and white to fit this theme. I played with font, color and boldness to give the user a different feeling on each page, but overall the layout and coloring is similar so the site feels cohesive. As well as the images and links, I added a button to give some more user interaction. 
 
 Challenge
-This assignment was very challenging for me because I was not comfortable working with Terminal, and I had no prior experience with Jekyll, Ruby, Github Pages, HTML or any website design. I did a lot of Jekyll-specific research through the Jekyll website and a few other sources to understand how to use it. From there I did HTML research to figure out how to format the text and pages. I am feel  more comfortable with website design and HTML. Now that I know how to make and host a site with Jekyll, I will be able to repeat this process in the future. 
+
+This assignment was very challenging for me because I was not comfortable setting up with Terminal, and I had no prior experience with Jekyll, Ruby, Github Pages, HTML or any website design. I did a lot of Jekyll-specific research through the Jekyll website and a few other sources to understand how to use it. From there I did HTML research to figure out how to format the text and pages. I am feel  more comfortable with website design and HTML. Now that I know how to make and host a site with Jekyll, I will be able to repeat this process in the future. In future I would want to make the layouts more complex. 
 
 Bugs
 
 The Fan Club buttons freeze sometimes
-I had a lot of issues with the Pages files not working after they were synced to Github. The Home and About pages worked, but not the Pages. 
+I had a lot of issues with the Pages files not working after they were synced to Github. I was able to get around this by changing the links to the pages, but this may not be considered proper format. The favicon worked on most browsers I tested, but some may not. I wanted to make more complex layouts with images fitted around eachother but as this was my first time using HTML at all it was too challenging. 
 
 Credits 
 
-The inspiration for Sally New Hampshire is the character Ally Maine from A Star is Born (2018). Jackson Maine is also a reference to the film. The actor who played Ally, Lady Gaga, is also referenced. 
+The inspiration for Sally New Hampshire is the character Ally Maine from A Star is Born (2018). Jackson Maine is also a reference to the film. The character is also a play on Lady Gaga.
 
 
 Images Used

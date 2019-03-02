@@ -9,7 +9,7 @@ title:  "SALLY"
 
 <center><h1 style="font-family:Copperplate;">Find Out More about Sally New Hampshire</h1></center>
 
- <a class="post-link" href="/jekyll/update/2019/02/23/SallyNH.html">
+ <a class="post-link" href="/SALLYNH/">
             Who is Sally New Hampshire?
  </a>
 

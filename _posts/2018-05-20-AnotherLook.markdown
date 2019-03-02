@@ -3,6 +3,7 @@ layout: page
 title:  "Want to Get Another Look at Her?"
 date:   2019-02-23 20:24:06 -0500
 categories: jekyll update
+permalink: /LOOK/
 ---
 
 <font size="50" color="red">Hey!</font>

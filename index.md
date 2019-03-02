@@ -26,9 +26,5 @@ title:  "SALLY"
 </a>
 
 
-<p>Sally New Hampshire is an American singer/songwriter and the identical twin of Ally Maine
-
-New Link <a href="https://charlottejohnston.github.io/SALLYNH/">SALLY NH</a>
-
-</p>
+<p>Sally New Hampshire is an American singer/songwriter and the identical twin of Ally Maine</p>
 

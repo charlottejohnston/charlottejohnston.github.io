@@ -94,4 +94,5 @@ https://htmlcolorcodes.com Making colors
 https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw HTML Tutorials
 https://www.w3schools.com HTML Syntax
 https://www.youtube.com/watch?v=fqFjuX4VZmU Hosting
+https://jekyllrb.com Jekyll Website and tutorials
 

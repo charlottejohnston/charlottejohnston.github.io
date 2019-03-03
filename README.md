@@ -16,8 +16,9 @@ This assignment was very challenging for me because I was not comfortable settin
 
 Bugs
 
-The Fan Club buttons freeze sometimes
-I had a lot of issues with the Pages files not working after they were synced to Github. I was able to get around this by changing the links to the pages. After the push to Github, I was having a lot of issues viewing the site locally. 
+The Fan Club buttons freeze sometimes.
+
+I had a lot of issues with the Pages files not working after they were synced to Github. I was able to get around this by changing the links to the pages. After the push to Github, I was having a lot of issues viewing the site locally. Viewing the posts through the Github repository works, but there were some issues when downloading them locally. 
 
 The favicon worked on most browsers I tested, but some may not. I wanted to make more complex layouts with images fitted around eachother but as this was my first time using HTML at all it was too challenging. 
 

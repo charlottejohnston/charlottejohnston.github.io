@@ -1,7 +1,7 @@
 # charlottejohnston.github.io
 Usage
 
-View the site at https://charlottejohnston.github.io or locally through your local host page. 
+View the site at https://charlottejohnston.github.io or locally through downloading the files. 
 
 Design Decisions
 
